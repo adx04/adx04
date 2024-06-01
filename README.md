@@ -8,8 +8,10 @@ Hello! I'm Ayush Dey, a coding enthusiast with a passion for solving complex pro
 ### Let's COnnect!
 
 You can reach me : [ayush2004dey@gmail.com](mailto:ayush2004dey@gmail.com)
-[Linkedin](https://www.linkedin.com/in/ayush-dey-36919825a/) 
-[HackerRank](https://www.hackerrank.com/profile/adx04)
+
+ [Linkedin](https://www.linkedin.com/in/ayush-dey-36919825a/) 
+
+ [HackerRank](https://www.hackerrank.com/profile/adx04)
 
 
 
