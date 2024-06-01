@@ -1,2 +1,3 @@
 # Ayush_Dey
 HI! Myself Ayush Dey , an aspiring Web Dev Enthusiast....
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=adx04)](https://github.com/anuraghazra/github-readme-stats)
