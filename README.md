@@ -52,8 +52,9 @@ I'm Ayush Dey, a Fullstack Developer based in Dehradun, India. I have a strong p
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, Oracle SQL, MySQL
 - **Programming Languages**: Python (Numpy, Pandas, Matplotlib), C, Java
-- **Others**: Data Structures and Algorithms, Microsoft Excel, Microsoft PowerPoint, Networking, Team Management, Public Speaking, Nature Photography
-- 
+- **Data Structures and Algorithms**
+- **Others**: Microsoft Excel, Microsoft PowerPoint, Networking, Team Management, Public Speaking, Nature Photography
+
 ### Let's Connect!
 
 
