@@ -44,7 +44,7 @@
 
 # About Me
 
-I'm Ayush Dey, a Fullstack Developer based in Dehradun, India. I have a strong passion for coding and enjoy working on innovative projects. I'm always eager to learn new technologies and improve my skills.
+I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B. Tech CSE in University of Petroleum & ENergy Studies, Dehradun,India. I have a strong passion for coding & Web Development and enjoy working on innovative projects. I'm always eager to learn new technologies and improve my skills.Lets connect and see what we can bulid together!
 
 ## Skills
 
