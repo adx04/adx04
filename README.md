@@ -44,8 +44,7 @@
 
 # About Me
 
-I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE in University of Petroleum & Energy Studies(UPES),Dehradun,India. I have a strong passion for coding & Web Development and enjoy working on innovative projects. I'm always eager to learn new technologies and improve my skills.Lets connect and see what we can bulid together!
-
+I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE in University of Petroleum & Energy Studies(UPES),Dehradun,India. I have a strong passion for coding & Web Development and enjoy working on innovative projects. I'm always eager to learn new technologies and improve my skills.
 ## My Skills & interest :
 
 - **Frontend**: ReactJs, Angular.js, HTML, CSS, JavaScript
@@ -55,6 +54,6 @@ I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE
 - **Data Structures and Algorithms**
 - **Others**: Microsoft Excel, Microsoft PowerPoint, Networking, Team Management, Public Speaking, Nature Photography
 
-### Let's Connect!
+### Let's connect and see what we can build together!
 
 
