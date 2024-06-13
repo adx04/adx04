@@ -52,12 +52,14 @@ I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE
 - **Programming Languages**: Python (Numpy, Pandas, Matplotlib), C, Java
 - **Data Structures and Algorithms**
 - **Others**: Microsoft Excel, Microsoft PowerPoint, Networking, Team Management, Public Speaking, Nature Photography
-- 
+
 ###
 
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adx04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   </div>
+
+  
 ### Let's connect and see what we can build together!
 
 
