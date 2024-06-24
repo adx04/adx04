@@ -11,11 +11,11 @@
 
 ###
 
-<img align="right" height="100" src="https://media1.tenor.com/m/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif"  />
 
 ###
 <div align="center">
-  
+<br>
   
 </div>
 
@@ -37,6 +37,7 @@
 # About Me
 
 I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE in University of Petroleum & Energy Studies(UPES), Dehradun, India. I have a strong passion for coding & Web Development and enjoy working on innovative projects. I'm always eager to learn new technologies and improve my skills.
+
 ## My Skills & interest :
 
 ###
@@ -55,6 +56,8 @@ I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE
 - **Data Structures and Algorithms**
 - **Others**: Microsoft Excel, Microsoft PowerPoint, Networking, Team Management, Public Speaking, Nature Photography
 
+###
+<br>
 
 ###
 
@@ -64,21 +67,21 @@ I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=adx04&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=adx04&theme=dracula&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adx04&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adx04&theme=dracula&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adx04&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adx04&theme=dracula&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
 </table>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adx04&theme=radical&row=1&column=7&margin-h=30&margin-w=10&no-bg=false" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adx04&theme=dracula&row=1&column=7&margin-h=30&margin-w=10&no-bg=false" alt="TROPHY" />
     </a>
 </div>
 </p> 
