@@ -1,32 +1,25 @@
 <h2 align="left">Hi 👋!</h2>
 
+###
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=adx04&icon=12020&color=12)](https://visitcount.itsvg.in)
+  
+</div>
+
+###
+
+<img align="right" height="100" src="https://media1.tenor.com/m/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif"  />
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adx04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-</div>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/deep._.ad" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -46,6 +39,15 @@
 I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE in University of Petroleum & Energy Studies(UPES), Dehradun, India. I have a strong passion for coding & Web Development and enjoy working on innovative projects. I'm always eager to learn new technologies and improve my skills.
 ## My Skills & interest :
 
+###
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,css,html,js,java,c,py,linux,md,figma,lubuntu&perline=14" />
+  </a>
+</p>
+
+###
+
 - **Frontend**: ReactJs, Angular.js, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, Oracle SQL, MySQL
@@ -53,12 +55,43 @@ I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE
 - **Data Structures and Algorithms**
 - **Others**: Microsoft Excel, Microsoft PowerPoint, Networking, Team Management, Public Speaking, Nature Photography
 
+
 ###
 
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adx04&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  </div>
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=adx04&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adx04&theme=dark&hide_border=false" /> 
+</td>
 
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adx04&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adx04&theme=radical&row=1&column=7&margin-h=30&margin-w=10&no-bg=false" alt="TROPHY" />
+    </a>
+</div>
+</p> 
+
+###
+
+<div align="center">
+  <a href="https://github.com/adx04/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+###
   
 ### Let's connect and see what we can build together!
 
