@@ -5,7 +5,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=adx04&label=Profile%20Visits&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=adx04&label=Profile%20Visits%20today!&color=12&icon=6&pretty=true&width=1650)](https://visitcount.itsvg.in)
   
 </div>
 
