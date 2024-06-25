@@ -10,17 +10,13 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif"  />
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="350">
+</div>
+<br>
 
 ###
 <div align="center">
-<br>
-  
-</div>
-
-###
-<div align="left">
   <a href="https://www.instagram.com/deep._.ad" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -33,19 +29,22 @@
 </div>
 
 ###
+<br>
 
 # About Me
 
 I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE in University of Petroleum & Energy Studies(UPES), Dehradun, India. I have a strong passion for coding & Web Development and enjoy working on innovative projects. I'm always eager to learn new technologies and improve my skills.
 
-## My Skills & interest :
+## My Skills & interests :
 
 ###
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,css,html,js,java,c,py,linux,md,figma,lubuntu&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,angular,expressjs,mongodb,mysql,git,css,html,js,c,py,java,ubuntu&perline=14" />
   </a>
 </p>
+<br>
 
 ###
 
@@ -54,7 +53,7 @@ I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE
 - **Databases**: MongoDB, Oracle SQL, MySQL
 - **Programming Languages**: Python (Numpy, Pandas, Matplotlib), C, Java
 - **Data Structures and Algorithms**
-- **Others**: Microsoft Excel, Microsoft PowerPoint, Networking, Team Management, Public Speaking, Nature Photography
+- **Other skills**: Microsoft Excel, Microsoft PowerPoint, Networking, Team Management, Public Speaking, Nature Photography
 
 ###
 <br>
@@ -79,6 +78,7 @@ I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE
   </td>
 </tr>
 </table>
+<br>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adx04&theme=dracula&row=1&column=7&margin-h=30&margin-w=10&no-bg=false" alt="TROPHY" />
