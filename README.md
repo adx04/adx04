@@ -85,6 +85,12 @@ I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE
     </a>
 </div>
 </p> 
+<br>
+
+###
+<div align='center'>
+<p><img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=adx04&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" /></p>
+</div>
 
 ###
 
@@ -95,6 +101,7 @@ I'm Ayush Dey, a Fullstack & MERN stack enthusiast currently persuing B.Tech CSE
 </div>
 
 ###
+
   
 ### Let's connect and see what we can build together!
 
