@@ -93,15 +93,6 @@ I'm Ayush, a Fullstack & MERN stack enthusiast. I have a strong passion for codi
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://github.com/adx04/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-###
-
   
 ### Let's connect and see what we can build together!
 
