@@ -11,9 +11,9 @@
 
 ###
 <div align="center">
-  <a href="https://www.instagram.com/deep._.ad" target="_blank">
+<!--   <a href="https://www.instagram.com/deep._.ad" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  </a> -->
   <a href="mailto:ayush2004dey@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -35,7 +35,7 @@ I'm Ayush, a Fullstack & MERN stack enthusiast. I have a strong passion for codi
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,angular,expressjs,mongodb,mysql,git,css,html,js,c,py,java,ubuntu&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,mysql,git,cpp,py,&perline=14" />
   </a>
 </p>
 <br>
@@ -44,10 +44,10 @@ I'm Ayush, a Fullstack & MERN stack enthusiast. I have a strong passion for codi
 
 - **Frontend**: ReactJs, Angular.js, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, Oracle SQL, MySQL
-- **Programming Languages**: Python (Numpy, Pandas, Matplotlib), C, Java
+- **Databases**: MongoDB, PL/SQL
+- **Programming Languages**: Python (Numpy, Pandas, Matplotlib), CPP
 - **Data Structures and Algorithms**
-- **Other skills**: Microsoft Excel, Microsoft PowerPoint, Networking, Team Management, Public Speaking, Nature Photography
+- **Other skills**: MS Excel, MS PowerPoint, Networking, Team Management, Public Speaking, Nature Photography
 
 ###
 <br>
